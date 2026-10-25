@@ -1,0 +1,6 @@
+{
+  "name": "TeenOS",
+  "description": "An all-in-one personal operating system and toolkit for teenagers, combining school, productivity, creativity, planning, money management, music, goals, and an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
